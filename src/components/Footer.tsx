@@ -71,7 +71,7 @@ export default function Footer() {
 
         <div className="pt-8 border-t border-gray-800 flex flex-col md:flex-row justify-between items-center gap-4">
           <div className="text-xs text-gray-600 font-mono">
-            PROTOTYPE NEXT SUPER SURVEILLANCE FRAMEWORK © 2025
+            PROTOTYPE NEXT SUPER SURVEILLANCE FRAMEWORK © 2026
           </div>
           <div className="text-xs text-gray-600 font-mono">
             CLASSIFIED: LEVEL 5 ACCESS REQUIRED
